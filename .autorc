@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ethuo2009",
+  "repo": "container-ltf6ehy",
+  "name": "ethuo2009",
+}
